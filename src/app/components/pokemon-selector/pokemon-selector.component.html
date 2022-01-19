@@ -1,0 +1,29 @@
+<td>
+  <img [src]="getImage()" class="img img-fluid my-img" />
+</td>
+<td>
+  <div class="text-white">
+    <input
+      type="text"
+      class="form-control"
+      matInput
+      placeholder="Add another pokemon"
+      [matAutocomplete]="auto"
+      (keyup)="onIputChange($event)"
+      [formControl]="myControl"
+      [(ngModel)]="inputReference"
+    />
+    <mat-autocomplete
+      #auto="matAutocomplete"
+      (optionSelected)="onPokeSelected($event.option.value)"
+    >
+      <mat-option *ngFor="let option of filteredOptions" [value]="option.value">
+        {{ option.label }}
+      </mat-option>
+    </mat-autocomplete>
+  </div>
+</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>

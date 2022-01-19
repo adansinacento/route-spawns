@@ -1,0 +1,35 @@
+<td>
+  <img [src]="getImage()" class="img img-fluid my-img" />
+</td>
+<td>
+  {{ selected.label }}
+</td>
+<td>
+  <div class="row">
+    <div class="col d-grid">
+      <button
+        class="btn btn-outline-primary btn-sm btn-block"
+        (click)="decreaseCounter()"
+      >
+        -
+      </button>
+    </div>
+    <div class="col d-grid">
+      <button
+        class="btn btn-outline-primary btn-sm btn-block"
+        (click)="increaseCounter()"
+      >
+        +
+      </button>
+    </div>
+  </div>
+</td>
+<td>
+  {{ selected.encounters }}
+</td>
+<td>{{ getRoundedPercent() }}%</td>
+<td>
+  <div class="d-grip">
+    <button class="btn btn-sm btn-danger" (click)="removePoke()">X</button>
+  </div>
+</td>

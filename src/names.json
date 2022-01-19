@@ -1,0 +1,5624 @@
+[
+  {
+    "label": "Bulbasaur",
+    "value": "001",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Ivysaur",
+    "value": "002",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Venusaur",
+    "value": "003",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Charmander",
+    "value": "004",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Charmeleon",
+    "value": "005",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Charizard",
+    "value": "006",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Squirtle",
+    "value": "007",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Wartortle",
+    "value": "008",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Blastoise",
+    "value": "009",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Caterpie",
+    "value": "010",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Metapod",
+    "value": "011",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Butterfree",
+    "value": "012",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Weedle",
+    "value": "013",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Kakuna",
+    "value": "014",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Beedrill",
+    "value": "015",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Pidgey",
+    "value": "016",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Pidgeotto",
+    "value": "017",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Pidgeot",
+    "value": "018",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Rattata",
+    "value": "019",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Rattata [alolan]",
+    "value": "19-1",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Raticate",
+    "value": "020",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Raticate [alolan]",
+    "value": "20-1",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Spearow",
+    "value": "021",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Fearow",
+    "value": "022",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Ekans",
+    "value": "023",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Arbok",
+    "value": "024",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Pikachu",
+    "value": "025",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Raichu",
+    "value": "026",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Raichu [alolan]",
+    "value": "26-1",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Sandshrew",
+    "value": "027",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Sandshrew [alolan]",
+    "value": "27-1",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Sandslash",
+    "value": "028",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Sandslash [alolan]",
+    "value": "28-1",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Nidoran♀",
+    "value": "029",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Nidorina",
+    "value": "030",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Nidoqueen",
+    "value": "031",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Nidoran♂",
+    "value": "032",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Nidorino",
+    "value": "033",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Nidoking",
+    "value": "034",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Clefairy",
+    "value": "035",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Clefable",
+    "value": "036",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Vulpix",
+    "value": "037",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Vulpix [alolan]",
+    "value": "37-1",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Ninetales",
+    "value": "038",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Ninetales [alolan]",
+    "value": "38-1",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Jigglypuff",
+    "value": "039",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Wigglytuff",
+    "value": "040",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Zubat",
+    "value": "041",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Golbat",
+    "value": "042",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Oddish",
+    "value": "043",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Gloom",
+    "value": "044",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Vileplume",
+    "value": "045",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Paras",
+    "value": "046",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Parasect",
+    "value": "047",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Venonat",
+    "value": "048",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Venomoth",
+    "value": "049",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Diglett",
+    "value": "050",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Diglett [alolan]",
+    "value": "50-1",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Dugtrio",
+    "value": "051",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Dugtrio [alolan]",
+    "value": "51-1",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Meowth",
+    "value": "052",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Meowth [alolan]",
+    "value": "52-1",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Meowth [galarian]",
+    "value": "52-2",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Persian",
+    "value": "053",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Persian [alolan]",
+    "value": "53-1",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Psyduck",
+    "value": "054",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Golduck",
+    "value": "055",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Mankey",
+    "value": "056",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Primeape",
+    "value": "057",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Growlithe",
+    "value": "058",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Arcanine",
+    "value": "059",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Poliwag",
+    "value": "060",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Poliwhirl",
+    "value": "061",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Poliwrath",
+    "value": "062",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Abra",
+    "value": "063",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Kadabra",
+    "value": "064",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Alakazam",
+    "value": "065",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Machop",
+    "value": "066",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Machoke",
+    "value": "067",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Machamp",
+    "value": "068",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Bellsprout",
+    "value": "069",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Weepinbell",
+    "value": "070",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Victreebel",
+    "value": "071",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Tentacool",
+    "value": "072",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Tentacruel",
+    "value": "073",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Geodude",
+    "value": "074",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Geodude [alolan]",
+    "value": "74-1",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Graveler",
+    "value": "075",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Graveler [alolan]",
+    "value": "75-1",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Golem",
+    "value": "076",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Golem [alolan]",
+    "value": "76-1",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Ponyta",
+    "value": "077",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Ponyta [galarian]",
+    "value": "77-1",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Rapidash",
+    "value": "078",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Rapidash [galarian]",
+    "value": "78-1",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Slowpoke",
+    "value": "079",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Slowpoke [galarian]",
+    "value": "79-1",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Slowbro",
+    "value": "080",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Slowbro [galarian]",
+    "value": "80-2",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Magnemite",
+    "value": "081",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Magneton",
+    "value": "082",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Farfetch'd",
+    "value": "083",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Farfetch'd [galarian]",
+    "value": "83-1",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Doduo",
+    "value": "084",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Dodrio",
+    "value": "085",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Seel",
+    "value": "086",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Dewgong",
+    "value": "087",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Grimer",
+    "value": "088",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Grimer [alolan]",
+    "value": "88-1",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Muk",
+    "value": "089",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Muk [alolan]",
+    "value": "89-1",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Shellder",
+    "value": "090",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Cloyster",
+    "value": "091",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Gastly",
+    "value": "092",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Haunter",
+    "value": "093",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Gengar",
+    "value": "094",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Onix",
+    "value": "095",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Drowzee",
+    "value": "096",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Hypno",
+    "value": "097",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Krabby",
+    "value": "098",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Kingler",
+    "value": "099",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Voltorb",
+    "value": "100",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Electrode",
+    "value": "101",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Exeggcute",
+    "value": "102",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Exeggutor",
+    "value": "103",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Exeggutor [alolan]",
+    "value": "103-1",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Cubone",
+    "value": "104",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Marowak",
+    "value": "105",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Marowak [alolan]",
+    "value": "105-1",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Hitmonlee",
+    "value": "106",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Hitmonchan",
+    "value": "107",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Lickitung",
+    "value": "108",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Koffing",
+    "value": "109",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Weezing",
+    "value": "110",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Weezing [galarian]",
+    "value": "110-1",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Rhyhorn",
+    "value": "111",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Rhydon",
+    "value": "112",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Chansey",
+    "value": "113",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Tangela",
+    "value": "114",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Kangaskhan",
+    "value": "115",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Horsea",
+    "value": "116",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Seadra",
+    "value": "117",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Goldeen",
+    "value": "118",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Seaking",
+    "value": "119",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Staryu",
+    "value": "120",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Starmie",
+    "value": "121",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Mr. Mime",
+    "value": "122",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Mr. Mime [galarian]",
+    "value": "122-1",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Scyther",
+    "value": "123",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Jynx",
+    "value": "124",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Electabuzz",
+    "value": "125",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Magmar",
+    "value": "126",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Pinsir",
+    "value": "127",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Tauros",
+    "value": "128",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Magikarp",
+    "value": "129",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Gyarados",
+    "value": "130",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Lapras",
+    "value": "131",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Ditto",
+    "value": "132",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Eevee",
+    "value": "133",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Vaporeon",
+    "value": "134",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Jolteon",
+    "value": "135",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Flareon",
+    "value": "136",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Porygon",
+    "value": "137",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Omanyte",
+    "value": "138",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Omastar",
+    "value": "139",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Kabuto",
+    "value": "140",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Kabutops",
+    "value": "141",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Aerodactyl",
+    "value": "142",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Snorlax",
+    "value": "143",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Articuno",
+    "value": "144",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Articuno [galarian]",
+    "value": "144-1",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Zapdos",
+    "value": "145",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Zapdos [galarian]",
+    "value": "145-1",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Moltres",
+    "value": "146",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Moltres [galarian]",
+    "value": "146-1",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Dratini",
+    "value": "147",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Dragonair",
+    "value": "148",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Dragonite",
+    "value": "149",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Mewtwo",
+    "value": "150",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Mew",
+    "value": "151",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Chikorita",
+    "value": "152",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Bayleef",
+    "value": "153",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Meganium",
+    "value": "154",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Cyndaquil",
+    "value": "155",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Quilava",
+    "value": "156",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Typhlosion",
+    "value": "157",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Totodile",
+    "value": "158",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Croconaw",
+    "value": "159",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Feraligatr",
+    "value": "160",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Sentret",
+    "value": "161",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Furret",
+    "value": "162",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Hoothoot",
+    "value": "163",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Noctowl",
+    "value": "164",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Ledyba",
+    "value": "165",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Ledian",
+    "value": "166",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Spinarak",
+    "value": "167",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Ariados",
+    "value": "168",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Crobat",
+    "value": "169",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Chinchou",
+    "value": "170",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Lanturn",
+    "value": "171",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Pichu",
+    "value": "172",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Cleffa",
+    "value": "173",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Igglybuff",
+    "value": "174",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Togepi",
+    "value": "175",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Togetic",
+    "value": "176",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Natu",
+    "value": "177",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Xatu",
+    "value": "178",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Mareep",
+    "value": "179",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Flaaffy",
+    "value": "180",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Ampharos",
+    "value": "181",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Bellossom",
+    "value": "182",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Marill",
+    "value": "183",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Azumarill",
+    "value": "184",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Sudowoodo",
+    "value": "185",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Politoed",
+    "value": "186",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Hoppip",
+    "value": "187",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Skiploom",
+    "value": "188",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Jumpluff",
+    "value": "189",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Aipom",
+    "value": "190",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Sunkern",
+    "value": "191",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Sunflora",
+    "value": "192",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Yanma",
+    "value": "193",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Wooper",
+    "value": "194",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Quagsire",
+    "value": "195",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Espeon",
+    "value": "196",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Umbreon",
+    "value": "197",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Murkrow",
+    "value": "198",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Slowking",
+    "value": "199",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Slowking [galarian]",
+    "value": "199-1",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Misdreavus",
+    "value": "200",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Unown",
+    "value": "201",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Wobbuffet",
+    "value": "202",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Girafarig",
+    "value": "203",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Pineco",
+    "value": "204",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Forretress",
+    "value": "205",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Dunsparce",
+    "value": "206",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Gligar",
+    "value": "207",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Steelix",
+    "value": "208",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Snubbull",
+    "value": "209",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Granbull",
+    "value": "210",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Qwilfish",
+    "value": "211",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Scizor",
+    "value": "212",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Shuckle",
+    "value": "213",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Heracross",
+    "value": "214",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Sneasel",
+    "value": "215",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Teddiursa",
+    "value": "216",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Ursaring",
+    "value": "217",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Slugma",
+    "value": "218",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Magcargo",
+    "value": "219",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Swinub",
+    "value": "220",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Piloswine",
+    "value": "221",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Corsola",
+    "value": "222",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Corsola [galarian]",
+    "value": "222-1",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Remoraid",
+    "value": "223",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Octillery",
+    "value": "224",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Delibird",
+    "value": "225",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Mantine",
+    "value": "226",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Skarmory",
+    "value": "227",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Houndour",
+    "value": "228",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Houndoom",
+    "value": "229",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Kingdra",
+    "value": "230",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Phanpy",
+    "value": "231",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Donphan",
+    "value": "232",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Porygon2",
+    "value": "233",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Stantler",
+    "value": "234",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Smeargle",
+    "value": "235",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Tyrogue",
+    "value": "236",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Hitmontop",
+    "value": "237",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Smoochum",
+    "value": "238",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Elekid",
+    "value": "239",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Magby",
+    "value": "240",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Miltank",
+    "value": "241",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Blissey",
+    "value": "242",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Raikou",
+    "value": "243",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Entei",
+    "value": "244",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Suicune",
+    "value": "245",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Larvitar",
+    "value": "246",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Pupitar",
+    "value": "247",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Tyranitar",
+    "value": "248",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Lugia",
+    "value": "249",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Ho-oh",
+    "value": "250",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Celebi",
+    "value": "251",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Treecko",
+    "value": "252",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Grovyle",
+    "value": "253",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Sceptile",
+    "value": "254",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Torchic",
+    "value": "255",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Combusken",
+    "value": "256",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Blaziken",
+    "value": "257",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Mudkip",
+    "value": "258",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Marshtomp",
+    "value": "259",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Swampert",
+    "value": "260",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Poochyena",
+    "value": "261",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Mightyena",
+    "value": "262",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Zigzagoon",
+    "value": "263",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Zigzagoon [galarian]",
+    "value": "263-1",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Linoone",
+    "value": "264",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Linoone [galarian]",
+    "value": "264-1",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Wurmple",
+    "value": "265",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Silcoon",
+    "value": "266",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Beautifly",
+    "value": "267",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Cascoon",
+    "value": "268",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Dustox",
+    "value": "269",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Lotad",
+    "value": "270",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Lombre",
+    "value": "271",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Ludicolo",
+    "value": "272",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Seedot",
+    "value": "273",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Nuzleaf",
+    "value": "274",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Shiftry",
+    "value": "275",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Taillow",
+    "value": "276",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Swellow",
+    "value": "277",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Wingull",
+    "value": "278",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Pelipper",
+    "value": "279",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Ralts",
+    "value": "280",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Kirlia",
+    "value": "281",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Gardevoir",
+    "value": "282",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Surskit",
+    "value": "283",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Masquerain",
+    "value": "284",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Shroomish",
+    "value": "285",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Breloom",
+    "value": "286",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Slakoth",
+    "value": "287",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Vigoroth",
+    "value": "288",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Slaking",
+    "value": "289",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Nincada",
+    "value": "290",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Ninjask",
+    "value": "291",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Shedinja",
+    "value": "292",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Whismur",
+    "value": "293",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Loudred",
+    "value": "294",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Exploud",
+    "value": "295",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Makuhita",
+    "value": "296",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Hariyama",
+    "value": "297",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Azurill",
+    "value": "298",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Nosepass",
+    "value": "299",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Skitty",
+    "value": "300",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Delcatty",
+    "value": "301",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Sableye",
+    "value": "302",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Mawile",
+    "value": "303",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Aron",
+    "value": "304",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Lairon",
+    "value": "305",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Aggron",
+    "value": "306",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Meditite",
+    "value": "307",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Medicham",
+    "value": "308",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Electrike",
+    "value": "309",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Manectric",
+    "value": "310",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Plusle",
+    "value": "311",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Minun",
+    "value": "312",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Volbeat",
+    "value": "313",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Illumise",
+    "value": "314",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Roselia",
+    "value": "315",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Gulpin",
+    "value": "316",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Swalot",
+    "value": "317",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Carvanha",
+    "value": "318",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Sharpedo",
+    "value": "319",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Wailmer",
+    "value": "320",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Wailord",
+    "value": "321",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Numel",
+    "value": "322",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Camerupt",
+    "value": "323",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Torkoal",
+    "value": "324",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Spoink",
+    "value": "325",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Grumpig",
+    "value": "326",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Spinda",
+    "value": "327",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Trapinch",
+    "value": "328",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Vibrava",
+    "value": "329",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Flygon",
+    "value": "330",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Cacnea",
+    "value": "331",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Cacturne",
+    "value": "332",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Swablu",
+    "value": "333",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Altaria",
+    "value": "334",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Zangoose",
+    "value": "335",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Seviper",
+    "value": "336",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Lunatone",
+    "value": "337",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Solrock",
+    "value": "338",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Barboach",
+    "value": "339",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Whiscash",
+    "value": "340",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Corphish",
+    "value": "341",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Crawdaunt",
+    "value": "342",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Baltoy",
+    "value": "343",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Claydol",
+    "value": "344",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Lileep",
+    "value": "345",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Cradily",
+    "value": "346",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Anorith",
+    "value": "347",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Armaldo",
+    "value": "348",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Feebas",
+    "value": "349",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Milotic",
+    "value": "350",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Castform",
+    "value": "351",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Kecleon",
+    "value": "352",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Shuppet",
+    "value": "353",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Banette",
+    "value": "354",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Duskull",
+    "value": "355",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Dusclops",
+    "value": "356",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Tropius",
+    "value": "357",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Chimecho",
+    "value": "358",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Absol",
+    "value": "359",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Wynaut",
+    "value": "360",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Snorunt",
+    "value": "361",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Glalie",
+    "value": "362",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Spheal",
+    "value": "363",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Sealeo",
+    "value": "364",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Walrein",
+    "value": "365",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Clamperl",
+    "value": "366",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Huntail",
+    "value": "367",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Gorebyss",
+    "value": "368",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Relicanth",
+    "value": "369",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Luvdisc",
+    "value": "370",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Bagon",
+    "value": "371",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Shelgon",
+    "value": "372",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Salamence",
+    "value": "373",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Beldum",
+    "value": "374",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Metang",
+    "value": "375",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Metagross",
+    "value": "376",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Regirock",
+    "value": "377",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Regice",
+    "value": "378",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Registeel",
+    "value": "379",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Latias",
+    "value": "380",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Latios",
+    "value": "381",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Kyogre",
+    "value": "382",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Groudon",
+    "value": "383",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Rayquaza",
+    "value": "384",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Jirachi",
+    "value": "385",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Deoxys",
+    "value": "386",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Turtwig",
+    "value": "387",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Grotle",
+    "value": "388",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Torterra",
+    "value": "389",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Chimchar",
+    "value": "390",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Monferno",
+    "value": "391",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Infernape",
+    "value": "392",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Piplup",
+    "value": "393",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Prinplup",
+    "value": "394",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Empoleon",
+    "value": "395",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Starly",
+    "value": "396",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Staravia",
+    "value": "397",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Staraptor",
+    "value": "398",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Bidoof",
+    "value": "399",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Bibarel",
+    "value": "400",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Kricketot",
+    "value": "401",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Kricketune",
+    "value": "402",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Shinx",
+    "value": "403",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Luxio",
+    "value": "404",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Luxray",
+    "value": "405",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Budew",
+    "value": "406",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Roserade",
+    "value": "407",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Cranidos",
+    "value": "408",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Rampardos",
+    "value": "409",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Shieldon",
+    "value": "410",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Bastiodon",
+    "value": "411",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Burmy",
+    "value": "412",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Wormadam",
+    "value": "413",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Mothim",
+    "value": "414",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Combee",
+    "value": "415",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Vespiquen",
+    "value": "416",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Pachirisu",
+    "value": "417",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Buizel",
+    "value": "418",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Floatzel",
+    "value": "419",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Cherubi",
+    "value": "420",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Cherrim",
+    "value": "421",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Shellos",
+    "value": "422",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Gastrodon",
+    "value": "423",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Ambipom",
+    "value": "424",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Drifloon",
+    "value": "425",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Drifblim",
+    "value": "426",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Buneary",
+    "value": "427",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Lopunny",
+    "value": "428",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Mismagius",
+    "value": "429",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Honchkrow",
+    "value": "430",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Glameow",
+    "value": "431",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Purugly",
+    "value": "432",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Chingling",
+    "value": "433",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Stunky",
+    "value": "434",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Skuntank",
+    "value": "435",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Bronzor",
+    "value": "436",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Bronzong",
+    "value": "437",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Bonsly",
+    "value": "438",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Mime Jr.",
+    "value": "439",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Happiny",
+    "value": "440",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Chatot",
+    "value": "441",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Spiritomb",
+    "value": "442",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Gible",
+    "value": "443",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Gabite",
+    "value": "444",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Garchomp",
+    "value": "445",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Munchlax",
+    "value": "446",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Riolu",
+    "value": "447",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Lucario",
+    "value": "448",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Hippopotas",
+    "value": "449",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Hippowdon",
+    "value": "450",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Skorupi",
+    "value": "451",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Drapion",
+    "value": "452",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Croagunk",
+    "value": "453",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Toxicroak",
+    "value": "454",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Carnivine",
+    "value": "455",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Finneon",
+    "value": "456",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Lumineon",
+    "value": "457",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Mantyke",
+    "value": "458",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Snover",
+    "value": "459",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Abomasnow",
+    "value": "460",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Weavile",
+    "value": "461",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Magnezone",
+    "value": "462",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Lickilicky",
+    "value": "463",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Rhyperior",
+    "value": "464",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Tangrowth",
+    "value": "465",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Electivire",
+    "value": "466",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Magmortar",
+    "value": "467",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Togekiss",
+    "value": "468",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Yanmega",
+    "value": "469",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Leafeon",
+    "value": "470",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Glaceon",
+    "value": "471",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Gliscor",
+    "value": "472",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Mamoswine",
+    "value": "473",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Porygon-Z",
+    "value": "474",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Gallade",
+    "value": "475",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Probopass",
+    "value": "476",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Dusknoir",
+    "value": "477",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Froslass",
+    "value": "478",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Rotom",
+    "value": "479",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Uxie",
+    "value": "480",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Mesprit",
+    "value": "481",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Azelf",
+    "value": "482",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Dialga",
+    "value": "483",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Palkia",
+    "value": "484",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Heatran",
+    "value": "485",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Regigigas",
+    "value": "486",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Giratina",
+    "value": "487",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Cresselia",
+    "value": "488",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Phione",
+    "value": "489",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Manaphy",
+    "value": "490",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Darkrai",
+    "value": "491",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Shaymin",
+    "value": "492",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Arceus",
+    "value": "493",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Victini",
+    "value": "494",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Snivy",
+    "value": "495",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Servine",
+    "value": "496",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Serperior",
+    "value": "497",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Tepig",
+    "value": "498",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Pignite",
+    "value": "499",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Emboar",
+    "value": "500",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Oshawott",
+    "value": "501",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Dewott",
+    "value": "502",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Samurott",
+    "value": "503",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Patrat",
+    "value": "504",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Watchog",
+    "value": "505",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Lillipup",
+    "value": "506",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Herdier",
+    "value": "507",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Stoutland",
+    "value": "508",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Purrloin",
+    "value": "509",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Liepard",
+    "value": "510",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Pansage",
+    "value": "511",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Simisage",
+    "value": "512",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Pansear",
+    "value": "513",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Simisear",
+    "value": "514",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Panpour",
+    "value": "515",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Simipour",
+    "value": "516",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Munna",
+    "value": "517",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Musharna",
+    "value": "518",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Pidove",
+    "value": "519",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Tranquill",
+    "value": "520",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Unfezant",
+    "value": "521",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Blitzle",
+    "value": "522",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Zebstrika",
+    "value": "523",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Roggenrola",
+    "value": "524",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Boldore",
+    "value": "525",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Gigalith",
+    "value": "526",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Woobat",
+    "value": "527",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Swoobat",
+    "value": "528",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Drilbur",
+    "value": "529",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Excadrill",
+    "value": "530",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Audino",
+    "value": "531",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Timburr",
+    "value": "532",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Gurdurr",
+    "value": "533",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Conkeldurr",
+    "value": "534",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Tympole",
+    "value": "535",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Palpitoad",
+    "value": "536",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Seismitoad",
+    "value": "537",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Throh",
+    "value": "538",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Sawk",
+    "value": "539",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Sewaddle",
+    "value": "540",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Swadloon",
+    "value": "541",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Leavanny",
+    "value": "542",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Venipede",
+    "value": "543",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Whirlipede",
+    "value": "544",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Scolipede",
+    "value": "545",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Cottonee",
+    "value": "546",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Whimsicott",
+    "value": "547",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Petilil",
+    "value": "548",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Lilligant",
+    "value": "549",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Basculin",
+    "value": "550",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Sandile",
+    "value": "551",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Krokorok",
+    "value": "552",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Krookodile",
+    "value": "553",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Darumaka",
+    "value": "554",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Darumaka [galarian]",
+    "value": "554-1",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Darmanitan",
+    "value": "555",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Darmanitan [zen]",
+    "value": "555-1",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Darmanitan [galarian]",
+    "value": "555-2",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Darmanitan [zen][galarian]",
+    "value": "555-3",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Maractus",
+    "value": "556",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Dwebble",
+    "value": "557",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Crustle",
+    "value": "558",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Scraggy",
+    "value": "559",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Scrafty",
+    "value": "560",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Sigilyph",
+    "value": "561",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Yamask",
+    "value": "562",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Yamask [galarian]",
+    "value": "562-1",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Cofagrigus",
+    "value": "563",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Tirtouga",
+    "value": "564",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Carracosta",
+    "value": "565",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Archen",
+    "value": "566",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Archeops",
+    "value": "567",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Trubbish",
+    "value": "568",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Garbodor",
+    "value": "569 (2)",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Zorua",
+    "value": "570",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Zoroark",
+    "value": "571",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Minccino",
+    "value": "572",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Cinccino",
+    "value": "573",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Gothita",
+    "value": "574",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Gothorita",
+    "value": "575",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Gothitelle",
+    "value": "576",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Solosis",
+    "value": "577",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Duosion",
+    "value": "578",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Reuniclus",
+    "value": "579",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Ducklett",
+    "value": "580",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Swanna",
+    "value": "581",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Vanillite",
+    "value": "582",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Vanillish",
+    "value": "583",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Vanilluxe",
+    "value": "584",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Deerling",
+    "value": "585",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Sawsbuck",
+    "value": "586",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Emolga",
+    "value": "587",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Karrablast",
+    "value": "588",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Escavalier",
+    "value": "589",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Foongus",
+    "value": "590",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Amoonguss",
+    "value": "591",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Frillish",
+    "value": "592",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Jellicent",
+    "value": "593",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Alomomola",
+    "value": "594",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Joltik",
+    "value": "595",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Galvantula",
+    "value": "596",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Ferroseed",
+    "value": "597",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Ferrothorn",
+    "value": "598",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Klink",
+    "value": "599",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Klang",
+    "value": "600",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Klinklang",
+    "value": "601",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Tynamo",
+    "value": "602",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Eelektrik",
+    "value": "603",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Eelektross",
+    "value": "604",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Elgyem",
+    "value": "605",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Beheeyem",
+    "value": "606",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Litwick",
+    "value": "607",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Lampent",
+    "value": "608",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Chandelure",
+    "value": "609",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Axew",
+    "value": "610",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Fraxure",
+    "value": "611",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Haxorus",
+    "value": "612",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Cubchoo",
+    "value": "613",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Beartic",
+    "value": "614",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Cryogonal",
+    "value": "615",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Shelmet",
+    "value": "616",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Accelgor",
+    "value": "617",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Stunfisk",
+    "value": "618",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Stunfisk [galarian]",
+    "value": "618-1",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Mienfoo",
+    "value": "619",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Mienshao",
+    "value": "620",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Druddigon",
+    "value": "621",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Golett",
+    "value": "622",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Golurk",
+    "value": "623",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Pawniard",
+    "value": "624",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Bisharp",
+    "value": "625",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Bouffalant",
+    "value": "626",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Rufflet",
+    "value": "627",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Braviary",
+    "value": "628",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Vullaby",
+    "value": "629",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Mandibuzz",
+    "value": "630",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Heatmor",
+    "value": "631",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Durant",
+    "value": "632",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Deino",
+    "value": "633",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Zweilous",
+    "value": "634",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Hydreigon",
+    "value": "635",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Larvesta",
+    "value": "636",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Volcarona",
+    "value": "637",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Cobalion",
+    "value": "638",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Terrakion",
+    "value": "639",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Virizion",
+    "value": "640",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Tornadus",
+    "value": "641",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Thundurus",
+    "value": "642",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Reshiram",
+    "value": "643",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Zekrom",
+    "value": "644",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Landorus",
+    "value": "645",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Kyurem",
+    "value": "646",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Keldeo",
+    "value": "647",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Meloetta",
+    "value": "648",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Genesect",
+    "value": "649",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Chespin",
+    "value": "650",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Quilladin",
+    "value": "651",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Chesnaught",
+    "value": "652",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Fennekin",
+    "value": "653",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Braixen",
+    "value": "654",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Delphox",
+    "value": "655",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Froakie",
+    "value": "656",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Frogadier",
+    "value": "657",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Greninja",
+    "value": "658",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Bunnelby",
+    "value": "659",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Diggersby",
+    "value": "660",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Fletchling",
+    "value": "661",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Fletchinder",
+    "value": "662",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Talonflame",
+    "value": "663",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Scatterbug",
+    "value": "664",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Spewpa",
+    "value": "665",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Vivillon",
+    "value": "666",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Litleo",
+    "value": "667",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Pyroar",
+    "value": "668",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Flabébé",
+    "value": "669",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Floette",
+    "value": "670",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Florges",
+    "value": "671",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Skiddo",
+    "value": "672",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Gogoat",
+    "value": "673",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Pancham",
+    "value": "674",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Pangoro",
+    "value": "675",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Furfrou",
+    "value": "676",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Espurr",
+    "value": "677",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Meowstic",
+    "value": "678",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Honedge",
+    "value": "679",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Doublade",
+    "value": "680",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Aegislash",
+    "value": "681",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Spritzee",
+    "value": "682",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Aromatisse",
+    "value": "683",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Swirlix",
+    "value": "684",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Slurpuff",
+    "value": "685",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Inkay",
+    "value": "686",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Malamar",
+    "value": "687",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Binacle",
+    "value": "688",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Barbaracle",
+    "value": "689",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Skrelp",
+    "value": "690",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Dragalge",
+    "value": "691",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Clauncher",
+    "value": "692",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Clawitzer",
+    "value": "693",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Helioptile",
+    "value": "694",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Heliolisk",
+    "value": "695",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Tyrunt",
+    "value": "696",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Tyrantrum",
+    "value": "697",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Amaura",
+    "value": "698",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Aurorus",
+    "value": "699",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Sylveon",
+    "value": "700",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Hawlucha",
+    "value": "701",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Dedenne",
+    "value": "702",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Carbink",
+    "value": "703",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Goomy",
+    "value": "704",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Sliggoo",
+    "value": "705",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Goodra",
+    "value": "706",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Klefki",
+    "value": "707",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Phantump",
+    "value": "708",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Trevenant",
+    "value": "709",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Pumpkaboo",
+    "value": "710",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Gourgeist",
+    "value": "711",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Bergmite",
+    "value": "712",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Avalugg",
+    "value": "713",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Noibat",
+    "value": "714",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Noivern",
+    "value": "715",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Xerneas",
+    "value": "716",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Yveltal",
+    "value": "717",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Zygarde",
+    "value": "718",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Diancie",
+    "value": "719",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Hoopa",
+    "value": "720",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Volcanion",
+    "value": "721",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Rowlet",
+    "value": "722",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Dartrix",
+    "value": "723",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Decidueye",
+    "value": "724",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Litten",
+    "value": "725",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Torracat",
+    "value": "726",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Incineroar",
+    "value": "727",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Popplio",
+    "value": "728",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Brionne",
+    "value": "729",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Primarina",
+    "value": "730",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Pikipek",
+    "value": "731",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Trumbeak",
+    "value": "732",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Toucannon",
+    "value": "733",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Yungoos",
+    "value": "734",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Gumshoos",
+    "value": "735",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Grubbin",
+    "value": "736",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Charjabug",
+    "value": "737",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Vikavolt",
+    "value": "738",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Crabrawler",
+    "value": "739",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Crabominable",
+    "value": "740",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Oricorio",
+    "value": "741",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Cutiefly",
+    "value": "742",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Ribombee",
+    "value": "743",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Rockruff",
+    "value": "744",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Lycanroc",
+    "value": "745",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Wishiwashi",
+    "value": "746",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Mareanie",
+    "value": "747",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Toxapex",
+    "value": "748",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Mudbray",
+    "value": "749",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Mudsdale",
+    "value": "750",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Dewpider",
+    "value": "751",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Araquanid",
+    "value": "752",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Fomantis",
+    "value": "753",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Lurantis",
+    "value": "754",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Morelull",
+    "value": "755",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Shiinotic",
+    "value": "756",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Salandit",
+    "value": "757",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Salazzle",
+    "value": "758",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Stufful",
+    "value": "759",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Bewear",
+    "value": "760",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Bounsweet",
+    "value": "761",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Steenee",
+    "value": "762",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Tsareena",
+    "value": "763",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Comfey",
+    "value": "764",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Oranguru",
+    "value": "765",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Passimian",
+    "value": "766",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Wimpod",
+    "value": "767",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Golisopod",
+    "value": "768",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Sandygast",
+    "value": "769",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Palossand",
+    "value": "770",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Pyukumuku",
+    "value": "771",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Type: Null",
+    "value": "772",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Silvally",
+    "value": "773",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Minior",
+    "value": "774",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Komala",
+    "value": "775",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Turtonator",
+    "value": "776",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Togedemaru",
+    "value": "777",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Mimikyu",
+    "value": "778",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Bruxish",
+    "value": "779",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Drampa",
+    "value": "780",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Dhelmise",
+    "value": "781",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Jangmo-o",
+    "value": "782",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Hakamo-o",
+    "value": "783",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Kommo-o",
+    "value": "784",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Tapu Koko",
+    "value": "785",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Tapu Lele",
+    "value": "786",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Tapu Bulu",
+    "value": "787",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Tapu Fini",
+    "value": "788",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Cosmog",
+    "value": "789",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Cosmoem",
+    "value": "790",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Solgaleo",
+    "value": "791",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Lunala",
+    "value": "792",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Nihilego",
+    "value": "793",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Buzzwole",
+    "value": "794",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Pheromosa",
+    "value": "795",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Xurkitree",
+    "value": "796",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Celesteela",
+    "value": "797",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Kartana",
+    "value": "798",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Guzzlord",
+    "value": "799",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Necrozma",
+    "value": "800",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Magearna",
+    "value": "801",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Marshadow",
+    "value": "802",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Poipole",
+    "value": "803",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Naganadel",
+    "value": "804",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Stakataka",
+    "value": "805",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Blacephalon",
+    "value": "806",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Zeraora",
+    "value": "807",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Meltan",
+    "value": "808",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Melmetal",
+    "value": "809",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Grookey",
+    "value": "810",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Thwackey",
+    "value": "811",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Rillaboom",
+    "value": "812",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Scorbunny",
+    "value": "813",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Raboot",
+    "value": "814",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Cinderace",
+    "value": "815",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Sobble",
+    "value": "816",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Drizzile",
+    "value": "817",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Inteleon",
+    "value": "818",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Skwovet",
+    "value": "819",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Greedent",
+    "value": "820",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Rookidee",
+    "value": "821",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Corvisquire",
+    "value": "822",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Corviknight",
+    "value": "823",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Blipbug",
+    "value": "824",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Dottler",
+    "value": "825",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Orbeetle",
+    "value": "826",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Nickit",
+    "value": "827",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Thievul",
+    "value": "828",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Gossifleur",
+    "value": "829",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Eldegoss",
+    "value": "830",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Wooloo",
+    "value": "831",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Dubwool",
+    "value": "832",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Chewtle",
+    "value": "833",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Drednaw",
+    "value": "834",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Yamper",
+    "value": "835",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Boltund",
+    "value": "836",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Rolycoly",
+    "value": "837",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Carkol",
+    "value": "838",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Coalossal",
+    "value": "839",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Applin",
+    "value": "840",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Flapple",
+    "value": "841",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Appletun",
+    "value": "842",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Silicobra",
+    "value": "843",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Sandaconda",
+    "value": "844",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Cramorant",
+    "value": "845",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Arrokuda",
+    "value": "846",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Barraskewda",
+    "value": "847",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Toxel",
+    "value": "848",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Toxtricity",
+    "value": "849",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Sizzlipede",
+    "value": "850",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Centiskorch",
+    "value": "851",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Clobbopus",
+    "value": "852",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Grapploct",
+    "value": "853",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Sinistea",
+    "value": "854",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Polteageist",
+    "value": "855",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Hatenna",
+    "value": "856",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Hattrem",
+    "value": "857",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Hatterene",
+    "value": "858",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Impidimp",
+    "value": "859",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Morgrem",
+    "value": "860",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Grimmsnarl",
+    "value": "861",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Obstagoon",
+    "value": "862",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Perrserker",
+    "value": "863",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Cursola",
+    "value": "864",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Sirfetch'd",
+    "value": "865",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Mr. Rime",
+    "value": "866",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Runerigus",
+    "value": "867",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Milcery",
+    "value": "868",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Alcremie",
+    "value": "869",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Falinks",
+    "value": "870",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Pincurchin",
+    "value": "871",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Snom",
+    "value": "872",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Frosmoth",
+    "value": "873",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Stonjourner",
+    "value": "874",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Eiscue",
+    "value": "875",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Indeedee",
+    "value": "876",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Morpeko",
+    "value": "877",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Cufant",
+    "value": "878",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Copperajah",
+    "value": "879",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Dracozolt",
+    "value": "880",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Arctozolt",
+    "value": "881",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Dracovish",
+    "value": "882",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Arctovish",
+    "value": "883",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Duraludon",
+    "value": "884",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Dreepy",
+    "value": "885",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Drakloak",
+    "value": "886",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Dragapult",
+    "value": "887",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Zacian",
+    "value": "888",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Zamazenta",
+    "value": "889",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Eternatus",
+    "value": "890",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Kubfu",
+    "value": "891",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Urshifu",
+    "value": "892",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Zarude",
+    "value": "893",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Regieleki",
+    "value": "894",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Regidrago",
+    "value": "895",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Glastrier",
+    "value": "896",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Spectrier",
+    "value": "897",
+    "encounters": 0,
+    "percentage": 0
+  },
+  {
+    "label": "Calyrex",
+    "value": "898",
+    "encounters": 0,
+    "percentage": 0
+  }
+]

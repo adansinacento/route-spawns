@@ -1,0 +1,34 @@
+<ng-template #modalInfo let-modal>
+  <div class="modal-content bg-dark text-white">
+    <div class="modal-header">
+      <h5 class="modal-title">Pokemon route spawns</h5>
+      <button
+        type="button"
+        class="btn-close"
+        (click)="modal.dismiss('Cross click')"
+        aria-label="Close"
+      ></button>
+    </div>
+    <div class="modal-body">
+      <h4 class="font-weight-bold">What is the purpose of this tool?</h4>
+      <p>
+        I made this just as a helper as I was completing the BDSP national dex,
+        to keep track of the mons I encountered on each route and to later
+        compare that against the spawn rate tables that you can find in sites
+        such as serebii, because I was kinda suspectful about some mons not
+        being as usual as they said they were.<br />
+        Anyway, use it at your convenience and remember that the code is public
+        in case you want to do anything more specialized.
+      </p>
+    </div>
+    <div class="modal-footer">
+      <button
+        type="button"
+        class="btn btn-secondary"
+        (click)="modal.close('Close click')"
+      >
+        Close
+      </button>
+    </div>
+  </div>
+</ng-template>
