@@ -13,9 +13,7 @@ export class SingleVisualizerComponent {
   constructor(private counterService: CounterService) {}
 
   getImage() {
-    return (
-      '../../assets/sprites/' + this.getSprite(this.selected.value) + '.png'
-    );
+    return '/assets/sprites/' + this.getSprite(this.selected.value) + '.png';
   }
 
   getRoundedPercent() {
