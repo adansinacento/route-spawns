@@ -22,7 +22,7 @@ export class PokemonSelectorComponent implements OnInit {
   }
 
   getImage() {
-    return '/assets/sprites/0.png';
+    return 'assets/sprites/0.png';
   }
 
   reFilter(newVal: string) {
