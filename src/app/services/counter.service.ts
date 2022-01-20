@@ -1,10 +1,15 @@
 import { Pokemon } from '../models/pokemon.model';
 import AllPokes from '../../names.json';
+import { Injectable } from '@angular/core';
+import { PerserveDataService } from './storage.service';
 
+@Injectable()
 export class CounterService {
-  picked: Pokemon[] = [];
+  picked: Pokemon[];
 
-  constructor() {}
+  constructor(private storageService: PerserveDataService) {
+    this.picked = storageService.getData();
+  }
 
   removeByValue(value: string) {
     var pokemon = this.picked.findIndex((poke: Pokemon) => {
@@ -18,6 +23,9 @@ export class CounterService {
 
     //remove from array
     this.picked.splice(pokemon, 1);
+
+    //save data
+    this.storageService.saveData(this.picked);
 
     //re calculate percentages
     this.updatePercentages();
@@ -43,6 +51,9 @@ export class CounterService {
 
     //finally add to array
     this.picked.push(pokemon);
+
+    //save data
+    this.storageService.saveData(this.picked);
 
     //re-balance percentages
     this.updatePercentages();
@@ -73,6 +84,9 @@ export class CounterService {
     //update encounters in array
     this.picked[index].encounters = newVal;
 
+    //save data
+    this.storageService.saveData(this.picked);
+
     //update percentages
     this.updatePercentages();
   }
@@ -94,9 +108,20 @@ export class CounterService {
     return (100 / total) * encounters;
   }
 
-  private sumEncounters() {
+  sumEncounters() {
     return this.picked.reduce(function (a, b) {
       return a + b.encounters;
     }, 0);
+  }
+
+  clearAll() {
+    //clear the picked array
+    this.picked.splice(0, this.picked.length);
+
+    //save data
+    this.storageService.saveData(this.picked);
+
+    //update percentages
+    this.updatePercentages();
   }
 }

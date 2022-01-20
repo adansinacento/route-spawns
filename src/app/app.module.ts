@@ -14,6 +14,7 @@ import { FooterComponent } from './components/footer/footer.component';
 import { ModalInfoComponent } from './components/modal-info/modal-info.component';
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 import { ModalComunicatorService } from './services/modal-comunicator.service';
+import { PerserveDataService } from './services/storage.service';
 
 @NgModule({
   declarations: [
@@ -32,7 +33,7 @@ import { ModalComunicatorService } from './services/modal-comunicator.service';
     MatInputModule,
     NgbModule,
   ],
-  providers: [CounterService, ModalComunicatorService],
+  providers: [CounterService, ModalComunicatorService, PerserveDataService],
   bootstrap: [AppComponent],
 })
 export class AppModule {}

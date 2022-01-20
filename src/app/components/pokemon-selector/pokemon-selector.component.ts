@@ -41,6 +41,18 @@ export class PokemonSelectorComponent implements OnInit {
     this.reFilter(value);
   }
 
+  getTotalEncounters() {
+    return this.counterService.sumEncounters();
+  }
+
+  clearTable() {
+    if (
+      confirm('Are you sure you want to remove all pokemon from the table?')
+    ) {
+      this.counterService.clearAll();
+    }
+  }
+
   onPokeSelected(selected: string) {
     this.counterService.addByValue(selected);
 
